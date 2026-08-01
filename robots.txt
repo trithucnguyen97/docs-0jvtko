@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-a9282r.bobatoto56edf.cfd/sitemap.xml
